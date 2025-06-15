@@ -55,12 +55,12 @@ I’m deeply passionate about technology and growth. I continuously explore new 
 ## Projects & GitHub
 
 Check out my repositories to see what I’ve been working on!  
-Most of my projects are available right here on [GitHub](https://github.com/).
+Most of my projects are available right here on [GitHub](https://github.com/Ankit-DevNexus).
 
 Let’s build something great together!
 
 ---
 
  **Connect with Me:**  
-[LinkedIn](https://www.linkedin.com/) | [Portfolio](#) | [Email](mailto:ankitsureka@example.com)
+[LinkedIn](https://www.linkedin.com/in/ankit-sureka-534a63353/) | [Portfolio](#) | [Email](mailto:ankit@devnexus.in)
 
