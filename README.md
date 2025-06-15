@@ -38,7 +38,7 @@ My role at DevNexus blends entrepreneurial spirit with engineering expertise—a
 
 ## Tech Stack & Skills
 
-- **Frontend:** React.js, JavaScript, Tailwind CSS, Bootstrap, HTML5, CSS3  
+- **Frontend:** NextJs, React.js, JavaScript, Tailwind CSS, Bootstrap, HTML5, CSS3  
 - **Backend:** Node.js, Express.js, Java, Python  
 - **Database:** MySQL, MongoDB  
 - **Version Control:** Git, GitHub  
