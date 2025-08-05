@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ankit Sureka
 
- **Full Stack Developer | Joint CEO at DevNexus Solutions | Problem Solver**  
+ **Full Stack Developer | CEO at DevNexus Solutions | Problem Solver**  
  JavaScript | React.js | Tailwind CSS | Node.js | MySQL | HTML5 | CSS3 | DSA
 
 ---
@@ -13,11 +13,11 @@ With an M.Sc. in IT & Management from **GD Goenka World Institute (Lancaster Uni
 
 ---
 
-## Current Role: Joint CEO at DevNexus Solutions
+## Current Role: CEO at DevNexus Solutions
 
  *April 2025 – Present | Gurugram, Haryana, India (On-site)*
 
-As the **Joint CEO** of DevNexus Solutions, I’m responsible for co-leading the company’s vision, strategy, and technological innovation. I bridge leadership with technical execution—overseeing product development while staying hands-on with code, architecture, and mentorship.
+As the **CEO** of DevNexus Solutions, I’m responsible for co-leading the company’s vision, strategy, and technological innovation. I bridge leadership with technical execution—overseeing product development while staying hands-on with code, architecture, and mentorship.
 
 ###  Key Responsibilities:
 - Leading software development initiatives and defining the company’s technical direction.
